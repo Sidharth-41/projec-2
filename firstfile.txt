@@ -3,3 +3,7 @@ This is the first file
 content for the second commit
 
 content for the third commit
+
+
+
+new line added 

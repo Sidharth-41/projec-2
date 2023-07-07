@@ -1,5 +1,3 @@
 first rebase text file
 
-
-
-cherry pick change
+cherry pickable changes
